@@ -1,0 +1,15 @@
+{
+    "name": "thegaminglist/item",
+    "description": "test",
+    "authors": [
+        {
+            "name": "thegaminglist",
+            "email": "noreply@thegaminglist.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TGL\\Item\\": ""
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Item",
+    "alias": "item",
+    "description": "Provides basic item and inventory functionality to your game.",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "TGL\\Item\\Providers\\ItemServiceProvider"
+    ],
+    "aliases": [],
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

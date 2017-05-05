@@ -1,0 +1,15 @@
+{
+    "name": "thegaminglist/mail",
+    "description": "",
+    "authors": [
+        {
+            "name": "thegaminglist",
+            "email": "noreply@thegaminglist.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TGL\\Mail\\": ""
+        }
+    }
+}

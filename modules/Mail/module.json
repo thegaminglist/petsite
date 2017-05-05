@@ -1,0 +1,16 @@
+{
+    "name": "Mail",
+    "alias": "mail",
+    "description": "Basic user messaging system for player to player communication.",
+    "keywords": [],
+    "active": 0,
+    "order": 0,
+    "providers": [
+        "TGL\\Mail\\Providers\\MailServiceProvider"
+    ],
+    "aliases": [],
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

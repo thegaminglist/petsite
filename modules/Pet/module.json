@@ -1,0 +1,16 @@
+{
+    "name": "Pet",
+    "alias": "pet",
+    "description": "Basic pet system, allowing users to create and keep a simple pet.",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "TGL\\Pet\\Providers\\PetServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
